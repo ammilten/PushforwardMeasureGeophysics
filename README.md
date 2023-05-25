@@ -1,2 +1,2 @@
 # PushforwardMeasureGeophysics
-This code goes along with a paper that has been submitted to the journal Geophysics
+This code is for performing probabilistic inversions using different formulations.
